@@ -1,0 +1,11 @@
+{
+    "rust-analyzer.cargo.extraEnv": {
+        "PATH": "${env:PATH};C:/Program Files/Git/usr/bin/"
+    },
+    "rust-analyzer.runnables.extraEnv": {
+        "PATH": "${env:PATH};C:/Program Files/Git/usr/bin/"
+    },
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};C:/Program Files/Git/usr/bin/"
+    }
+}
